@@ -19,26 +19,26 @@ h1 {
 
 .byline {
 	font-size: 2em;
-	color: #8C7D82;
+	color: rgb(137,159,123);
 	font-weight: 100;
 }
 
 /* LINKS */
 
 a {
-	color: #8C9174;
+	color: rgb(137,159,123);
 }
 
 a:hover {
-	color: #3E222B;
+	color: #999;
 }
 
 nav a {
-	color: #8C7D82;
+	color: rgb(137,159,123);
 }
 
 nav a:hover {
-	color: #CEC8CA;
+	color: #999;
 }
 
 /* ALIGNMENT & BORDERS */
@@ -57,7 +57,7 @@ nav a:hover {
 
 .header {
 	padding-top: 30vh; /* set in vh to scale with screen size */
-	background: #3E222B;
+	background: rgb(54,94,82);
 	color: #FFFFFF;
 	text-transform: uppercase;
 }
